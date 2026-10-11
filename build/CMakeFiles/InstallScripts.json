@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Farelhshw/Subtitle/build/cmake_install.cmake",
+		"D:/Farelhshw/Subtitle/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
