@@ -1,7 +1,0 @@
-test_audio 1 0.0498951
-test_charset 1 0.0565015
-test_correlate 1 0.315384
-test_e2e 1 2.06364
-test_fft 1 0.0422598
-test_formats 1 0.0299468
----

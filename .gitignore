@@ -1,0 +1,16 @@
+# build output
+build/
+*.obj
+*.exe
+*.pdb
+*.ilk
+
+# test artifacts
+tests/stress/
+tests/xlang/
+tests/fx/
+__pycache__/
+*.pyc
+
+# scratch / downloads
+tmpx/
